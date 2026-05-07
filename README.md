@@ -2,7 +2,7 @@
 
   <h1>🧠 Multi-Modal Few-Shot Anomaly Detection in Medical Imaging</h1>
   <p><b>A Triple-Hybrid Pipeline for Rare Disease Diagnosis — SSL · Meta-Learning · Generative AI · CLIP</b></p>
-
+ 
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch_Lightning-2.5-792EE5?style=for-the-badge&logo=lightning&logoColor=white"/>
